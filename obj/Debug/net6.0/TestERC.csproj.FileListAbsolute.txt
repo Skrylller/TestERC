@@ -1,0 +1,15 @@
+D:\Skrymer\VSProects\TestERC\bin\Debug\net6.0\TestERC.exe
+D:\Skrymer\VSProects\TestERC\bin\Debug\net6.0\TestERC.deps.json
+D:\Skrymer\VSProects\TestERC\bin\Debug\net6.0\TestERC.runtimeconfig.json
+D:\Skrymer\VSProects\TestERC\bin\Debug\net6.0\TestERC.dll
+D:\Skrymer\VSProects\TestERC\bin\Debug\net6.0\TestERC.pdb
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.csproj.AssemblyReference.cache
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.AssemblyInfoInputs.cache
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.AssemblyInfo.cs
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.csproj.CoreCompileInputs.cache
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.dll
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\refint\TestERC.dll
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.pdb
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\TestERC.genruntimeconfig.cache
+D:\Skrymer\VSProects\TestERC\obj\Debug\net6.0\ref\TestERC.dll
